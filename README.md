@@ -1,8 +1,8 @@
-# Run-on-Slack Deno Request Time Off Sample
+# Run-on-Slack Deno Approval Sample
 
 This app contains a sample TypeScript project for use on Slack's
 [next-generation hosted platform](https://api.slack.com/future). The project
-models a time off request workflow. This request will get routed to their
+models a approval request workflow. This request will get routed to their
 manager, who receives a direct message from this application with the request
 details along with two buttons they can interact with to approve or deny the
 request.
