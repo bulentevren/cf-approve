@@ -5,7 +5,7 @@ import { SendTimeOffRequestToManagerFunction } from "./functions/send_time_off_r
 export default Manifest({
   name: "CF Approve",
   description: "Approval request for CF Team",
-  icon: "assets/icon.png",
+  icon: "assets/cf.png",
   workflows: [CreateTimeOffRequestWorkflow],
   functions: [SendTimeOffRequestToManagerFunction],
   outgoingDomains: [],
