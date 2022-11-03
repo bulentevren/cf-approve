@@ -1,4 +1,4 @@
-# Run-on-Slack Deno Approval Sample
+# Run-on-Slack Deno Approval 
 
 This app contains a sample TypeScript project for use on Slack's
 [next-generation hosted platform](https://api.slack.com/future). The project
